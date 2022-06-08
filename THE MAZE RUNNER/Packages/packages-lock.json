@@ -115,7 +115,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.interaction.toolkit": {
-      "version": "2.0.1",
+      "version": "2.0.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -191,6 +191,20 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.windowsmr": {
+      "version": "2.9.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.subsystems": "1.0.0",
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0",
+        "com.unity.xr.management": "4.0.1",
+        "com.unity.xr.interactionsubsystems": "1.0.1",
+        "com.unity.xr.arsubsystems": "2.1.3"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.modules.ai": {
